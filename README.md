@@ -5,6 +5,7 @@ The project contains python-driven data exploratory analysis of a supermarket lo
 
 Supermarket loyalty program is a strategic initiative to stimulate customer engagement and reward shopping loyalty, encouraging repeat visits and increased spending. By leveraging data analytics, supermarkets can tailor their offerings to meet the unique preferences of their shoppers, ultimately driving both sales and customer satisfaction.
 
+
 **Dataset**
 
 The dataset consisted of 8 columns:
@@ -25,10 +26,12 @@ joining_month :The month the customer joined the loyalty program
 
 promotion: Did the customer join the loyalty program as part of a promotion? 
 
+
 **Tools**
 
 Python (Pandas & Matplotlib) for data manipulation and visualization
 Jupyter Notebook for code development and documentation
+
 
 **Analysis Performed**
 
@@ -41,6 +44,7 @@ Jupyter Notebook for code development and documentation
 -Determine the length of time that customers have been part of the loyalty program, and how it affects their spending.
 
 -Investigate the monthly patterns in overall spending and its relationship with spending based on loyalty group categories
+
 
 **Insights and Summary**
 
