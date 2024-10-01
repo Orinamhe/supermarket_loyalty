@@ -1,6 +1,7 @@
 # SUPERMARKET LOYALTY
 The project contains python-driven data exploratory analysis of a supermarket loyalty program
 
+
 **Introduction**
 
 Supermarket loyalty program is a strategic initiative to stimulate customer engagement and reward shopping loyalty, encouraging repeat visits and increased spending. By leveraging data analytics, supermarkets can tailor their offerings to meet the unique preferences of their shoppers, ultimately driving both sales and customer satisfaction.
