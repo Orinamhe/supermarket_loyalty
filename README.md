@@ -8,13 +8,21 @@ Supermarket loyalty program is a strategic initiative to stimulate customer enga
 **Dataset**
 
 The dataset consisted of 8 columns:
+
  customer_id 
+ 
 spend :The total spend of the customer in their last full year
+
  first_month :The amount spent by the customer in their first month of the year
+ 
 items_in_first_month :The number of items purchased in the first month
+
  region
+ 
  loyalty_years :The number of years the customer has been a part of the loyalty program
+ 
 joining_month :The month the customer joined the loyalty program
+
 promotion: Did the customer join the loyalty program as part of a promotion? 
 
 **Tools**
@@ -25,9 +33,13 @@ Jupyter Notebook for code development and documentation
 **Analysis Performed**
 
 -Annual total spending of customers who are members of the program
+
 -Explore how their subscription timing correlates with the amount spent at sign-up, and the total amount spent at the end of the year.
+
 -Investigate spending patterns across various geographical regions
+
 -Determine the length of time that customers have been part of the loyalty program, and how it affects their spending.
+
 -Investigate the monthly patterns in overall spending and its relationship with spending based on loyalty group categories
 
 **Insights and Summary**
